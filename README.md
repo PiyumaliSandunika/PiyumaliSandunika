@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ](piyumali99sandunika@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;[![linked](https://user-images.githubusercontent.com/73444543/209476184-7511677b-df7f-4edc-97d7-c66a71b4e5ca.png)
  ]([https://www.linkedin.com/in/piyumali-sandunika-08b239203/])
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyumaliSandunika&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyumaliSandunika&theme=radical)
 <!---dracula, highcontrast, synthwave, cobait, onedark, tokyonight, gruvbox, merko, dark, radical-->
 
-<!---![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraTharaka&show_icons=true&theme=radical)-->
+<!--- (url)![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraTharaka&show_icons=true&theme=radical) -->

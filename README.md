@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyumaliSandunika&theme=radical)
 <!---dracula, highcontrast, synthwave, cobait, onedark, tokyonight, gruvbox, merko, dark, radical-->
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumaliSandunika&layout=compact&theme=radical)](https://github.com/PiyumaliSandunika/github-readme-stats) -->
 
-<!--- (url)![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraTharaka&show_icons=true&theme=radical) -->

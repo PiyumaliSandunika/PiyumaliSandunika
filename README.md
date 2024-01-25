@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Computer Engineering
+- :computer: Final Year Computer Engineering Undergraduate
 - 📫 How to reach me: &nbsp;&nbsp;&nbsp;&nbsp;
 [![mail](https://user-images.githubusercontent.com/73444543/209476680-3914e969-fc7d-4086-9c34-927b234be2f5.png)](piyumali99sandunika@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [![linked](https://user-images.githubusercontent.com/73444543/209476184-7511677b-df7f-4edc-97d7-c66a71b4e5ca.png)](https://www.linkedin.com/in/piyumali-sandunika-08b239203/)
 
